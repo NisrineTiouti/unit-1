@@ -11,9 +11,9 @@ _the types of variables:_
 -strings ( text) e.g: "hello"
 - Boolean and None, are to indicate true or false value. You can assign any variable to be true or false and declaring a variable as Boolean.
 
-**3) The four CTS : ( Common Type System)
+**3) The four CTS : ( Common Type System)**
 - System Software: System software helps the user, the computer or mobile device, and an application all work together seamlessly. This makes sytem software crucial to running any kind of application software as well as the whole computer sytem. e.g: macOS
 - Programming Software; Programming software is for computer programmers and developers who are writing code. These are programs tha t are used to write, develop, test, and debug other software programs. e.g: compilers
 - Driver Software: it operates and controles devices that are plugged into a computer. 
-- Application Software : this is the most common type of software, and can bedefined as end-user programs that help you perform tasks or achieve desire outcome. e.g:  a photo-editing program like Adobe or LIghtroom.
+- Application Software : this is the most common type of software, and can bedefined as end-user programs that help you perform tasks or achieve desire outcome. e.g:  a photo-editing program like Adobe or Lightroom.
 
