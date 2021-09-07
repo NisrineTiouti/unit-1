@@ -1,6 +1,6 @@
 #Solution to if exercises in snakify
 
-##1. Odd numbers
+##1. Odd numbers:
 ![](problem 1.png)
 
 ```.py
@@ -17,7 +17,7 @@ else:
 #END
 ```
 
-##2.Sign function
+##2.Sign function:
 ![](problem 2.png)
 ```.py
 # get input 
@@ -35,7 +35,7 @@ else:
 #END
 ```
 
-##3.Minimum of 3 numbers
+##3.Minimum of 3 numbers:
 ![](problem 3.png)
 ```.py
 # Read an integer:
@@ -54,7 +54,7 @@ elif b < c and b < a:
 #END
 ```
 
-##4.Equal numbers 
+##4.Equal numbers: 
 ![](problem 4.png)
 
 ```.py
@@ -73,7 +73,7 @@ else:
 #END
 ```
 
-##5.Rook move
+##5.Rook move:
 ![](Problem 5.png)
 
 ```.py
@@ -90,7 +90,7 @@ else:
 #END
 ```
 
-##6. Chess board- same color
+##6. Chess board- same color:
 ![](problem 6.png)
 ```.py
 a = int(input())
@@ -107,7 +107,7 @@ else:
 #END
 ```
 
-##7.King move
+##7.King move:
 ![](Problem 7.png)
 ```.py
 a = int(input())
@@ -122,7 +122,7 @@ else:
     print('NO')
 #END
 ```
-##8.Bishop move
+##8.Bishop move:
 ![](problem 8.png)
 
 ```.py
@@ -140,7 +140,7 @@ else:
 #END
 ```
 
-##9.Queen move
+##9.Queen move:
 ![](Problem 9.png)
 
 ```.py
@@ -157,7 +157,7 @@ else:
 #END
 ```
 
-##10.knight move
+##10.knight move:
 ![](problem 10.png)
 
 ```.py
@@ -175,7 +175,7 @@ else:
 #END
 ```
 
-##11.Chocolate bar
+##11.Chocolate bar:
 ![](Problem 11.png)
 ```.py
 n = int(input())
@@ -190,7 +190,7 @@ else:
 #END
 ```
 
-##12.Leap year
+##12.Leap year:
 ![](Problem 12.png)
 
 ```.py
