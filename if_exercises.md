@@ -1,7 +1,8 @@
 #Solution to if exercises in snakify
 
 ##1. Odd numbers:
-![](problem 1.png)
+![problem 1](https://user-images.githubusercontent.com/89052189/132270975-78b38e43-4b0c-4d87-b14f-0b14aa4d7902.png)
+
 
 ```.py
 # Read an integer
@@ -18,7 +19,8 @@ else:
 ```
 
 ##2.Sign function:
-![](problem 2.png)
+![problem 2](https://user-images.githubusercontent.com/89052189/132271104-b5e68ffd-00ee-4a6e-8d62-a632435a0cc6.png)
+
 ```.py
 # get input 
 x = int(input())
@@ -36,7 +38,7 @@ else:
 ```
 
 ##3.Minimum of 3 numbers:
-![](problem 3.png)
+![problem 3](https://user-images.githubusercontent.com/89052189/132271169-209ca3fb-888e-499c-9691-af2379ed58af.png)
 ```.py
 # Read an integer:
 a = int(input())
@@ -55,7 +57,7 @@ elif b < c and b < a:
 ```
 
 ##4.Equal numbers: 
-![](problem 4.png)
+![problem 4](https://user-images.githubusercontent.com/89052189/132271221-e100472c-49e2-4351-a0a8-206516acbaed.png)
 
 ```.py
 a = int(input())
@@ -74,7 +76,7 @@ else:
 ```
 
 ##5.Rook move:
-![](Problem 5.png)
+![problem 5](https://user-images.githubusercontent.com/89052189/132271260-5ae3e5df-3aad-4c63-ad3b-11ef839d5472.png)
 
 ```.py
 a = int(input())
@@ -91,7 +93,8 @@ else:
 ```
 
 ##6. Chess board- same color:
-![](problem 6.png)
+![problem 6](https://user-images.githubusercontent.com/89052189/132271295-41b687dd-c24f-42cb-9f89-e647c1d95e03.png)
+
 ```.py
 a = int(input())
 b = int(input())
@@ -108,7 +111,8 @@ else:
 ```
 
 ##7.King move:
-![](Problem 7.png)
+![Problem 7](https://user-images.githubusercontent.com/89052189/132271311-3a17e749-5874-42f6-9956-1d6d9086a137.png)
+
 ```.py
 a = int(input())
 b = int(input())
@@ -123,7 +127,7 @@ else:
 #END
 ```
 ##8.Bishop move:
-![](problem 8.png)
+![problem 8](https://user-images.githubusercontent.com/89052189/132271328-ef752473-0363-4c2f-afa8-ebb604adeb03.png)
 
 ```.py
 a = int(input())
@@ -141,7 +145,7 @@ else:
 ```
 
 ##9.Queen move:
-![](Problem 9.png)
+![Problem 9](https://user-images.githubusercontent.com/89052189/132271371-3c78217c-f66f-4152-b25e-b6813166a9d8.png)
 
 ```.py
 a = int(input())
@@ -158,7 +162,7 @@ else:
 ```
 
 ##10.knight move:
-![](problem 10.png)
+![problem 10](https://user-images.githubusercontent.com/89052189/132271404-18937e91-9e77-40d9-b24c-cf8842bb1cd9.png)
 
 ```.py
 a = int(input())
@@ -176,7 +180,8 @@ else:
 ```
 
 ##11.Chocolate bar:
-![](Problem 11.png)
+![Problem 11](https://user-images.githubusercontent.com/89052189/132271431-1d3deee1-223a-4892-b24c-0aa7c0a32720.png)
+
 ```.py
 n = int(input())
 m = int(input())
@@ -191,7 +196,7 @@ else:
 ```
 
 ##12.Leap year:
-![](Problem 12.png)
+![Problem 12](https://user-images.githubusercontent.com/89052189/132271453-af18224b-f726-4bde-8eab-8f50d7eb84af.png)
 
 ```.py
 a = int(input())
