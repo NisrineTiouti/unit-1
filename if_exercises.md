@@ -1,7 +1,7 @@
 #Solution to if exercises in snakify
 
 ##1. Odd numbers
-![](Problem 1.png)
+![](problem 1.png)
 
 ```.py
 # Read an integer
@@ -18,7 +18,7 @@ else:
 ```
 
 ##2.Sign function
-![](Problem 2.png)
+![](problem 2.png)
 ```.py
 # get input 
 x = int(input())
@@ -36,7 +36,7 @@ else:
 ```
 
 ##3.Minimum of 3 numbers
-![](Problem 3.png)
+![](problem 3.png)
 ```.py
 # Read an integer:
 a = int(input())
@@ -55,7 +55,7 @@ elif b < c and b < a:
 ```
 
 ##4.Equal numbers 
-![](Problem 4.png)
+![](problem 4.png)
 
 ```.py
 a = int(input())
@@ -91,7 +91,7 @@ else:
 ```
 
 ##6. Chess board- same color
-![](Problem 6.png)
+![](problem 6.png)
 ```.py
 a = int(input())
 b = int(input())
@@ -123,7 +123,7 @@ else:
 #END
 ```
 ##8.Bishop move
-![](Problem 8.png)
+![](problem 8.png)
 
 ```.py
 a = int(input())
@@ -158,7 +158,7 @@ else:
 ```
 
 ##10.knight move
-![](Problem 10.png)
+![](problem 10.png)
 
 ```.py
 a = int(input())
