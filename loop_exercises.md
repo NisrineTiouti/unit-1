@@ -135,3 +135,18 @@ for i in range(1, n+1):
 
 #END
 ```
+#Lost card:
+![loop flowcharts (11)](https://user-images.githubusercontent.com/89052189/132435870-ffdbe578-0241-447e-ae94-4fde0b527c67.png)
+
+```.py
+n = int(input())
+sum = 0
+for i in range (1, n+1):
+    sum += i
+for i in range(n - 1):
+    sum -= int(input())
+print(sum)
+    
+#END
+```
+
