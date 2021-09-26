@@ -1,76 +1,23 @@
-{
-  "nbformat": 4,
-  "nbformat_minor": 0,
-  "metadata": {
-    "colab": {
-      "name": "programming_task_1",
-      "provenance": [],
-      "authorship_tag": "ABX9TyOKTZOYmzMiyallqt0H7T8K",
-      "include_colab_link": true
-    },
-    "kernelspec": {
-      "name": "python3",
-      "display_name": "Python 3"
-    },
-    "language_info": {
-      "name": "python"
-    }
-  },
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/NisrineTiouti/unit-1/blob/main/programming_task_1.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
-    {
-      "cell_type": "code",
-      "metadata": {
-        "colab": {
-          "base_uri": "https://localhost:8080/"
-        },
-        "id": "vEsxv3Bw6QIk",
-        "outputId": "716c00aa-bfbc-4db4-9b3a-4acee0664b6d"
-      },
-      "source": [
-        "#Ask the user for 2 numbers a and b\n",
-        "#Check if one of them is 10 or if their sum is 10 \n",
-        "list = [a, b]\n",
-        "print(\"Enter 2 numbers: \")\n",
-        "a = input()\n",
-        "b = input()\n",
-        "\n",
-        "if '10' in list:\n",
-        "  print(f\"Makes10({a}, {b})-->True\")\n",
-        "  if '10' not in list:\n",
-        "    print(f\"Makes10({a}, {b})-->False\")\n",
-        "  \n",
-        "elif int(a) + int(b) == 10:\n",
-        "  print(f\"Makes10({a}, {b})--> True\")\n",
-        "else:\n",
-        "  print(f\"Makes10({a}, {b})--> False\")\n",
-        "\n",
-        "\n",
-        " \n"
-      ],
-      "execution_count": 31,
-      "outputs": [
-        {
-          "output_type": "stream",
-          "name": "stdout",
-          "text": [
-            "Enter 2 numbers: \n",
-            "7\n",
-            "8\n",
-            "Makes10(7, 8)--> False\n"
-          ]
-        }
-      ]
-    }
-  ]
-}
+```.py
+#Ask the user for 2 numbers a and b
+#Check if one of them is 10 or if their sum is 10 
+list = [a, b]
+print("Enter 2 numbers: ")
+a = input()
+b = input()
 
+if '10' in list:
+  print(f"Makes10({a}, {b})-->True")
+  if '10' not in list:
+    print(f"Makes10({a}, {b})-->False")
+  
+elif int(a) + int(b) == 10:
+  print(f"Makes10({a}, {b})--> True")
+else:
+  print(f"Makes10({a}, {b})--> False")
+  
+#END
+```
+![Capturecode](https://user-images.githubusercontent.com/89052189/134808242-0ffd856c-0a3c-4ee1-b6ca-fc2c772a9eff.PNG)
+![Capturecode2](https://user-images.githubusercontent.com/89052189/134808253-b1a503f4-531a-4600-a487-061061633c3b.PNG)
+![Capture44](https://user-images.githubusercontent.com/89052189/134808503-d1ea4a71-4936-483e-a5d6-25256ae35e9f.PNG)
