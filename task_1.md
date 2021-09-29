@@ -16,7 +16,7 @@
     
  **Question 5: Consider your game. Think about ways you can improve the Players’ Experience using Human-centered design. Write below your ideas:**
    
-   .I think i can improve the Players' experience is if we get their approval each step of the way, something that they can test and see if it works for them, that way they can make changes during the process, we avoid wasted time and resources and the Player's happy with the final product.
+   .I think i can improve the Players' experience is if we get their approval each step of the way, something that they can test and see if it works for them, that way they can make changes during the process, we avoid wasted time and resources and the Player's happy with the final product.Reminders to stop playing if the user spent too much time on the game.
 
 
 
